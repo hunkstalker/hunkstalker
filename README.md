@@ -36,7 +36,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <img src="https://img.shields.io/badge/css-2babf7?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" />
     <img src="https://img.shields.io/badge/php-4F5D95?style=for-the-badge&logo=php&logoColor=white&labelColor=101010" />
     <img src="https://img.shields.io/badge/Angular-b52e31?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010" />
-    <img src="https://img.shields.io/badge/React/Native-61dbfb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010" />
     <img src="https://github.com/hunkstalker/hunkstalker/blob/main/img/godot_Res.png" />
     <img src="https://img.shields.io/badge/unity-white?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010" />
     <!-- <img src="https://img.shields.io/badge/ionic-4789fa?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010" /> -->
