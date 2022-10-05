@@ -9,7 +9,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
       <samp>
             <b>
             Hello, My name is Denis Anfruns 👋<br>
-            Welcome to my Profile<br><br>
+            Welcome to my GitHub's profile<br><br>
             </b>
             [<a href="https://anfruns-denis.com/" target="_blank">WEBSITE</a>]
             [<a href="mailto:anfruns.denis@gmail.com">GMAIL</a>]
