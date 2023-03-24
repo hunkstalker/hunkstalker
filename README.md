@@ -9,7 +9,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
       <samp>
             <b>
             Hello, My name is Denis Anfruns 👋<br>
-            Welcome to my GitHub's profile<br><br>
+            Welcome to my repository<br><br>
             </b>
             [<a href="https://anfruns-denis.dev/" target="_blank">WEBSITE</a>]
             [<a href="mailto:anfruns.denis@gmail.com">EMAIL</a>]
@@ -28,9 +28,9 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <p>
         <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=101010" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010" />
         <br><br>
         <img src="https://img.shields.io/badge/git-d84a34?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=Astro&logoColor=white&labelColor=101010" />
