@@ -8,7 +8,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <p align="center">
       <samp>
             <b>
-            Hello, My name is Denis Anfruns 👋<br>
+            Hello, I'm Denis Anfruns 👋<br>
             Welcome to my repository<br><br>
             </b>
             [<a href="https://anfruns-denis.dev/" target="_blank">WEBSITE</a>]
@@ -21,7 +21,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
 <div align="center">
     <!-- I am interested in -->
     <p align="center">
-      <h2>I am interested in:</h2>
+      <h2>I'm interested in:</h2>
     </p>
 </div>
 <div align="center">
