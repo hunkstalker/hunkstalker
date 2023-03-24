@@ -43,6 +43,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     </p>
 </div>
 <p>
+<!-- https://simpleicons.org/?q=sql -->
 
 <div align="center">
     <!-- GitHub statistics -->
