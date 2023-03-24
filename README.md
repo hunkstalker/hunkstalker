@@ -35,6 +35,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
         <img src="https://img.shields.io/badge/git-d84a34?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=Astro&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010" />
+        <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Solid-2C4F7C?style=for-the-badge&logo=Solid&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=Godot Engine&logoColor=white&labelColor=101010" />
         </br>
