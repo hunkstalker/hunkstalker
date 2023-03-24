@@ -28,9 +28,9 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <p>
         <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white&labelColor=101010" />
+        <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010" />
         <br><br>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" />
