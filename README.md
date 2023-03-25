@@ -12,8 +12,10 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
             Welcome to my repositories<br><br>
             </b>
             [<a href="https://anfruns-denis.dev/" target="_blank">WEBSITE</a>]
-            [<a href="mailto:anfruns.denis@gmail.com">EMAIL</a>]
+            [<a href="mailto:anfruns-denis@gmail.com">EMAIL</a>]
             [<a href="https://hunkstalker.itch.io/" target="_blank">GAMES</a>]
+            [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>]
+            [<a href="https://twitter.com/HunkStalker/" target="_blank">TWITTER</a>]
       </samp><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
@@ -26,19 +28,19 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
 </div>
 <div align="center">
     <p>
-        <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010" />
-        <br><br>
-        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=Astro&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Solid-2C4F7C?style=for-the-badge&logo=Solid&logoColor=white&labelColor=101010" />
-        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=Godot Engine&logoColor=white&labelColor=101010" />
+        <img alt="Badge" src="https://img.shields.io/badge/.Net-512BD4.svg?&style=for-the-badge"/>
+        <img alt="Badge" src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=white"/>
+        <img alt="Badge" src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge" />
+        <img alt="Badge" src="https://img.shields.io/badge/Flutter-white.svg?&style=for-the-badge&logo=flutter&logoColor=69b7f9"/>
+        <img alt="Badge" src="https://img.shields.io/badge/Firebase-039be5.svg?&style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>
+        <img alt="Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+        <br>
+        <img alt="Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img alt="Badge" src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=Astro&logoColor=white" />
+        <img alt="Badge" src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=5ed4f3" />
+        <img alt="Badge" src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
+        <img alt="Badge" src="https://img.shields.io/badge/Solidjs-2c4f7c?style=for-the-badge&logo=Solid&logoColor=white" />
+        <img alt="Badge" src="https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=Godot Engine&logoColor=478CBF" />
         </br>
     </p>
 </div>
@@ -79,3 +81,4 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact" />
     </picture>
 </div>
+<br><br>
