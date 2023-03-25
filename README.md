@@ -21,7 +21,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
 <div align="center">
     <!-- I am interested in -->
     <p align="center">
-      <h2>I'm interested in:</h2>
+      <h2>I'm interested in</h2>
     </p>
 </div>
 <div align="center">
@@ -48,7 +48,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
 <div align="center">
     <!-- GitHub statistics -->
     <p align="center">
-      <h2>GitHub statistics:</h2>
+      <h2>Some stats</h2>
     </p>
 </div>
 
@@ -56,11 +56,11 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <!-- Statistics -->
     <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&card_width=450&theme=synthwave"
+          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&card_width=450&&theme=synthwave"
           media="(prefers-color-scheme: dark)"
           />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&card_width=450"
+          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&hide_title=false&card_width=450"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false" />
