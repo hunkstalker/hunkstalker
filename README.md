@@ -52,14 +52,30 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     </p>
 </div>
 
-<p align="center">
-    <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hunkstalker&count_private=true&show_icons=true&theme=dark"/> -->
-    <img src="https://github.com/hunkstalker/github-stats/blob/master/generated/overview.svg"/>&nbsp;&nbsp;
-    <img src="https://github.com/hunkstalker/github-stats/blob/master/generated/languages.svg"/>
-    <br>
-  <samp>Codewars</samp>
-    <br><br>
-  <a href="https://www.codewars.com/r/SsLXLw" target="_blank"><img src="https://www.codewars.com/users/hunkstalker/badges/large"/></a>
-  <!-- <img alt="HackTheBox" src="https://www.hackthebox.eu/badge/image/1009234"/> -->
-</p>
-
+<div align="center">
+    <!-- Statistics -->
+    <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&card_width=450&theme=synthwave"
+          media="(prefers-color-scheme: dark)"
+          />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&card_width=450"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false" />
+    </picture>
+<br><br>
+    <!-- Languages-->
+    <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact&langs_count=10&card_width=450&theme=synthwave"
+          media="(prefers-color-scheme: dark)"
+          />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact&langs_count=10&card_width=450"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact" />
+    </picture>
+</div>
