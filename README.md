@@ -78,7 +78,16 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     </picture>
 <br><br>
 </div>
+
 <!--
+// Por si algún día vuelvo a usarlo ;)
+
+<div align="center">
+    <img src="https://www.codewars.com/users/hunkstalker/badges/large"/>
+    <img src="https://www.codewars.com/users/hunkstalker/badges/small"/>
+    <img src="https://www.codewars.com/users/hunkstalker/badges/micro"/>
+</div>
+
 <div align="center">
     <p>
         <h3>Last tweets</h3>
