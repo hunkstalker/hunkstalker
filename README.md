@@ -8,22 +8,23 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <p align="center">
       <samp>
             <b>
-            Hi!, I'm Denis Anfruns 👋<br>
-            Welcome to my repositories<br><br>
+            Hi!, I'm Denis Anfruns 👾<br>
+            You can find or contact me on: <br>
             </b>
             [<a href="https://anfruns-denis.dev/" target="_blank">WEBSITE</a>]
             [<a href="mailto:anfruns-denis@gmail.com">EMAIL</a>]
             [<a href="https://hunkstalker.itch.io/" target="_blank">GAMES</a>]
             [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>]
             [<a href="https://twitter.com/HunkStalker/" target="_blank">TWITTER</a>]
-      </samp><br>
+            <br><br>
+            Welcome to my repositories!
+      </samp>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
-
 <div align="center">
     <!-- I am interested in -->
-    <p align="center">
-      <h2>I'm interested in</h2>
+    <p>
+      <h3>I'm interested in</h3>
     </p>
 </div>
 <div align="center">
@@ -46,39 +47,41 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
 </div>
 <p>
 <!-- https://simpleicons.org -->
-
 <div align="center">
     <!-- GitHub statistics -->
-    <p align="center">
-      <h2>Some stats</h2>
+    <p>
+      <h3>Some stats</h3>
     </p>
-</div>
-
-<div align="center">
     <!-- Statistics -->
     <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&count_private=true&theme=synthwave&card_width=450"
+          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&count_private=true&theme=synthwave"
           media="(prefers-color-scheme: dark)"
           />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&hide_title=false&count_private=true&card_width=450"
+          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&hide_title=false&count_private=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false" />
+        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false" />
     </picture>
-<br><br>
     <!-- Languages-->
     <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact&langs_count=10&count_private=true&card_width=450&theme=synthwave"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact&langs_count=8&count_private=true&theme=synthwave"
           media="(prefers-color-scheme: dark)"
           />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact&langs_count=10&card_width=450"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact&langs_count=8"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact" />
+        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact" />
     </picture>
-</div>
 <br><br>
+</div>
+<!--
+<div align="center">
+    <p>
+        <h3>Last tweets</h3>
+    </p>
+</div>
+-->
