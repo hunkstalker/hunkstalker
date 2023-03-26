@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 3508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(5.29481,0,0,5.29481,1214.9,1881.36)">
+        <g id="qwik.svg" transform="matrix(1,0,0,1,-22.3868,-24.065)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="44.774" height="48.13"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="Mesa-de-trabajo1" serif:id="Mesa de trabajo1" transform="matrix(1,0,0,1,-11.2264,-2.86998)">
+                    <rect x="11.226" y="2.87" width="44.774" height="48.13" style="fill:none;"/>
+                    <g transform="matrix(1,0,0,1,0.226415,0.86998)">
+                        <path d="M49.88,49.561L41.496,41.225L41.368,41.243L41.368,41.152L23.539,23.547L27.932,19.305L25.351,4.497L13.105,19.671C11.018,21.773 10.634,25.192 12.135,27.715L19.786,40.402C20.958,42.358 23.081,43.528 25.369,43.51L29.159,43.474L49.88,49.561Z" style="fill:rgb(24,182,246);fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,0.226415,0.86998)">
+                        <path d="M54.456,19.378L52.772,16.271L51.893,14.68L51.545,14.058L51.509,14.095L46.896,6.106C45.742,4.095 43.582,2.852 41.239,2.87L37.194,2.98L25.131,3.016C22.842,3.035 20.756,4.241 19.602,6.197L12.262,20.75L25.387,4.461L42.594,23.364L39.537,26.453L41.367,41.243L41.386,41.207L41.386,41.243L41.349,41.243L41.386,41.28L42.814,42.669L49.751,49.452C50.044,49.726 50.52,49.397 50.319,49.049L46.035,40.622L53.504,26.819L53.742,26.545C53.833,26.435 53.925,26.325 53.998,26.216C55.463,24.223 55.664,21.554 54.456,19.378Z" style="fill:rgb(172,126,244);fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,0.226415,0.86998)">
+                        <path d="M42.649,23.291L25.387,4.479L27.84,19.214L23.446,23.474L41.331,41.225L39.72,26.49L42.649,23.291Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="qwik.svg1" serif:id="qwik.svg">
+        </g>
+    </g>
+</svg>
