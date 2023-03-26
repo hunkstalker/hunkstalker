@@ -11,9 +11,9 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
             Hi!, I'm Denis Anfruns 👾<br>
             You can find or contact me on: <br>
             </b>
-            [<a href="https://anfruns-denis.dev/" target="_blank">WEBSITE</a>]
+            [<a href="https://anfruns-denis.dev/" target="_blank">MY WEBSITE</a>]
             [<a href="mailto:anfruns-denis@gmail.com">EMAIL</a>]
-            [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>]
+            [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>] & 
             [<a href="https://twitter.com/HunkStalker/" target="_blank">TWITTER</a>]
             <br><br>
             Welcome to my repositories!
