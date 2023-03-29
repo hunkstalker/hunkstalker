@@ -76,7 +76,14 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
         <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunkstalker&layout=compact" />
     </picture>
 <br><br>
+<!-- Last tweets -->
+<!--
+<p>
+  <h3>Last tweets</h3>
+</p>
+<img height="350em" align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=hunkstalker" />
 </div>
+-->
 
 <!--
 // Por si algún día vuelvo a usarlo ;)
@@ -85,11 +92,5 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <img src="https://www.codewars.com/users/hunkstalker/badges/large"/>
     <img src="https://www.codewars.com/users/hunkstalker/badges/small"/>
     <img src="https://www.codewars.com/users/hunkstalker/badges/micro"/>
-</div>
-
-<div align="center">
-    <p>
-        <h3>Last tweets</h3>
-    </p>
 </div>
 -->
