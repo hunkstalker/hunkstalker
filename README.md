@@ -30,7 +30,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <p>
         <img alt="Badge" src="https://img.shields.io/badge/.net-512BD4.svg?&style=for-the-badge"/>
         <img alt="Badge" src="https://img.shields.io/badge/azure-0078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-        <img alt="Badge" src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge" />
+        <!-- <img alt="Badge" src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge" /> -->
         <!-- <img alt="Badge" src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white"/> -->
         <!-- <img alt="Badge" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge" /> -->
         <img alt="Badge" src="https://img.shields.io/badge/kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
