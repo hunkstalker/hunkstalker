@@ -15,16 +15,11 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
             [<a href="mailto:anfruns-denis@gmail.com">EMAIL</a>]
             [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>] & 
             [<a href="https://twitter.com/HunkStalker/" target="_blank">TWITTER</a>]
-            <br><br>
-            Welcome to my repositories!
       </samp>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 <div align="center">
-    <!-- I am interested in -->
-    <p>
       <h3>I'm interested in</h3>
-    </p>
 </div>
 <div align="center">
     <p>
@@ -50,7 +45,6 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
         <img alt="Badge" src="https://img.shields.io/badge/solidjs-2c4f7c?style=for-the-badge&logo=solid&logoColor=white" />
         <img alt="Badge" src="https://img.shields.io/badge/godot-white?style=for-the-badge&logo=godotengine" />
         </br></br>
-        And I'am FOSS enthusiast! ❤️
     </p>
 </div>
 <p>
