@@ -51,9 +51,6 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
 <!-- https://simpleicons.org -->
 <div align="center">
     <!-- GitHub statistics -->
-    <p>
-      <h3>Some stats</h3>
-    </p>
     <!-- Statistics -->
     <picture>
         <source 
