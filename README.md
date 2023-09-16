@@ -38,7 +38,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
         <!-- <img alt="Badge" src="https://img.shields.io/badge/.Net MAUI-512BD4?style=for-the-badge" /> -->
         <!-- <img alt="Badge" src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> -->
         <!-- <img alt="Badge" src="https://img.shields.io/badge/bun-222222?style=for-the-badge&logo=bun&logoColor=white" /> -->
-        <img alt="Badge" src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img alt="Badge" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
         <img alt="Badge" src="https://img.shields.io/badge/astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
         <img alt="Badge" src="https://img.shields.io/badge/preact-673AB8?style=for-the-badge&logo=preact&logoColor=white" />
         <!-- <img alt="Badge" src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white" /> -->
