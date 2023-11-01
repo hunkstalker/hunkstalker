@@ -3,8 +3,6 @@ https://github.com/mouredev
 https://github.com/owl4ce
 https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statistics -->
 
-<a rel="me" href="https://fosstodon.org/@hunkstalker">Mastodon</a>
-
 <!-- Profile & Contact -->
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
@@ -13,7 +11,11 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
             Hi!, I'm Denis Anfruns 👾<br>
             You can find or contact me on: <br>
             </b>
-
+            ✨ [<a href="https://anfruns-denis.dev/" target="_blank">My Site</a>]
+            ✉️ [<a href="mailto:anfruns-denis@gmail.com">eMail</a>]
+            [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LinkedIn</a>]
+            🐘 [<a rel="me" href="https://fosstodon.org/@hunkstalker">Mastodon</a>]
+            [<a href="https://twitter.com/HunkStalker/" target="_blank">Twitter</a>]
       </samp>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
