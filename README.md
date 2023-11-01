@@ -11,11 +11,11 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
             Hi!, I'm Denis Anfruns 👾<br>
             You can find or contact me on: <br>
             </b>
-            [<a href="https://anfruns-denis.dev/" target="_blank">MY WEBSITE</a>]
-            [<a href="mailto:anfruns-denis@gmail.com">EMAIL</a>]
-            [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>]
-            [<a rel="me" href="https://fosstodon.org/@hunkstalker" target="_blank">MASTODON</a>]
-            [<a href="https://twitter.com/HunkStalker/" target="_blank">TWITTER</a>]
+            ✨ [<a href="https://anfruns-denis.dev/" target="_blank">My Site</a>]
+            ✉️ [<a href="mailto:anfruns-denis@gmail.com">eMail</a>]
+            [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LinkedIn</a>]
+            🐘 [<a rel="me" href="https://fosstodon.org/@hunkstalker">Mastodon</a>]
+            [<a href="https://twitter.com/HunkStalker/" target="_blank">Twitter</a>]
       </samp>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
