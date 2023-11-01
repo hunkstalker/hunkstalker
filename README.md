@@ -2,7 +2,7 @@
 https://github.com/mouredev
 https://github.com/owl4ce
 https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statistics -->
-<link href="https://fosstodon.org/@hunkstalker" rel="me">
+<link href="[https://fosstodon.org/@hunkstalker](https://fosstodon.org/@hunkstalker)" rel="me">
 
 <!-- Profile & Contact -->
 <p align="left"><strong><samp>「</samp></strong></p>
