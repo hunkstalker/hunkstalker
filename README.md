@@ -14,7 +14,6 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
             [<a href="https://anfruns-denis.dev/" target="_blank">MY WEBSITE</a>]
             [<a href="mailto:anfruns-denis@gmail.com">EMAIL</a>]
             [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>]
-          <!--<a rel="me" href="https://fosstodon.org/@hunkstalker" target="_blank">MASTODON</a> -->
             [<a rel="me" href="https://fosstodon.org/@hunkstalker" target="_blank">MASTODON</a>]
             [<a href="https://twitter.com/HunkStalker/" target="_blank">TWITTER</a>]
       </samp>
@@ -90,3 +89,4 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
     <img src="https://www.codewars.com/users/hunkstalker/badges/micro"/>
 </div>
 -->
+<a rel="me" href="https://fosstodon.org/@hunkstalker" target="_blank">MASTODON</a>
