@@ -46,18 +46,6 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
 <!-- https://simpleicons.org -->
 <div align="center">
     <!-- GitHub statistics -->
-    <!-- Statistics -->
-    <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&count_private=true&theme=synthwave"
-          media="(prefers-color-scheme: dark)"
-          />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false&hide_title=false&count_private=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=hunkstalker&show_icons=false" />
-    </picture>
     <!-- Languages-->
     <picture>
         <source 
