@@ -15,7 +15,7 @@ https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statisti
             ✉️ [<a href="mailto:anfruns-denis@gmail.com">EMAIL</a>]
             💼 [<a href="https://www.linkedin.com/in/denis-anfruns/" target="_blank">LINKEDIN</a>]
             🐘 [<a rel="me" href="https://fosstodon.org/@hunkstalker" target="_blank">MASTODON</a>]
-            🦋 [<a rel="me" href="https://bsky.app/profile/hunkstalker.bsky.social" target="_blank">BlueSky</a>]
+            🦋 [<a rel="me" href="https://bsky.app/profile/hunkstalker.bsky.social" target="_blank">BLUESKY</a>]
             🐦 [<a href="https://twitter.com/HunkStalker/" target="_blank">TWITTER</a>]
       </samp>
     </p>
